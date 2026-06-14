@@ -40,25 +40,32 @@ I'm passionate about automating infrastructure, building robust CI/CD pipelines,
 
 ## 🔥 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [🔧 RoboShop Jenkins Shared Library](https://github.com/SurendraKumar17/roboshop-jenkins-shared-library) | Reusable Jenkins shared library for CI/CD pipelines | Groovy, Jenkins |
-| [☸️ Full Stack App on AWS EKS + ArgoCD](https://github.com/SurendraKumar17/Full-Stack-Application-Deployment-on-AWS-EKS-With-Argo-CD) | End-to-end deployment of a full-stack app using GitOps | AWS EKS, ArgoCD, Python |
-| [🐳 Docker Zero to Hero](https://github.com/SurendraKumar17/Docker-Zero-to-Hero) | Learning Docker from basics to advanced concepts | Docker |
-| [🚀 Jenkins CI/CD with K8s + ArgoCD](https://github.com/SurendraKumar17/Jenkins_Deployment) | Complete CI/CD setup with Jenkins, Docker, K8s & ArgoCD | Jenkins, K8s, ArgoCD |
+### 🏗️ [microservices-gitops-platform](https://github.com/SurendraKumar17/microservices-gitops-platform)
+> Production-grade microservices platform implementing the complete DevOps lifecycle on AWS EKS — from infrastructure provisioning to GitOps delivery with automated security gates at every stage.
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/Argo%20CD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📡 [k8s-observability-platform](https://github.com/SurendraKumar17/k8s-observability-platform)
+> End-to-end observability stack for Kubernetes — metrics, logs, and alerting with Prometheus, Grafana, and Loki for full cluster visibility.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurendraKumar17&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurendraKumar17&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SurendraKumar17&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+---
+
+### 🌍 [multi-env-infra-terraform](https://github.com/SurendraKumar17/multi-env-infra-terraform)
+> Modular Terraform infrastructure for managing dev, staging, and production environments — reusable modules, remote state management, and environment-specific configurations.
+
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
